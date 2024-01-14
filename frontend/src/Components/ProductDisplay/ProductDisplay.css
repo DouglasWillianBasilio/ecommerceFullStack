@@ -35,7 +35,7 @@
     font-weight: 700;
 }
 
-.productdisplay-right-star {
+.productdisplay-right-stars {
     display: flex;
     align-items: center;
     margin-top: 13px;
@@ -90,6 +90,7 @@
     color: white;
     background: #ff4141;
     margin-bottom: 40px;
+    flex-direction: column;
     border: none;
     outline: none;
     cursor: pointer;
